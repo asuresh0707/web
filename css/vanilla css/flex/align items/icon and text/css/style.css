@@ -1,0 +1,24 @@
+/* classic css */
+
+body {
+    background-color: grey;
+}
+
+.icon-wrap {
+    background-color: #fff;
+    padding: 1rem;
+    margin: 25px;
+    max-width: 200px;
+    border-radius: 10px;
+    font-family: serif;
+}
+
+
+
+/* flexbox css */
+
+.icon-warp {
+    display: flex;
+    align-items: center;
+}
+

@@ -1,0 +1,30 @@
+/* genric css */
+
+body {
+    background-color: darkgray;
+}
+
+.quote {
+    background-color: #CA4E79;
+    margin: 10px;
+    padding: 1.5rem;
+    border-radius: 10px;
+    color: #fff;
+}
+
+.quote p {
+    margin: 0 0 0 0.5;
+    font-family: serif;
+    font-style: italic;
+    font-size: 1.2rem;
+}
+
+.quote span {
+    font-size: 1rem;
+}
+
+
+/* flex css */
+.container {
+    display: flex;
+}

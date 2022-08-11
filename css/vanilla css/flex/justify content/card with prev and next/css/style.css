@@ -1,0 +1,35 @@
+/* genric css */
+
+body {
+    background-color: #3F4E4F;
+}
+
+.card {
+    background-color: #fff;
+    margin: 30px;
+    padding: 1.5rem;
+    border-radius: 15px;
+    width: 18rem;
+}
+
+p {
+    line-height: 1.4;
+}
+
+button {
+    background-color: #54BAB9;
+    color: #fff;
+    border: none;
+    padding: .5rem;
+    width: 7rem;
+    font-size: 1.5rem;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+/* flexbox css */
+
+.links {
+    display: flex;
+    justify-content: space-between;
+}
