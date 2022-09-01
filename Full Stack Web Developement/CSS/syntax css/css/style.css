@@ -1,0 +1,23 @@
+/* element selector */
+h1 {
+    color: aquamarine;
+    font-size: 75px;
+}
+
+img {
+    background-color: beige;
+}
+
+/* class selectors */
+
+.barcoli {
+    background-color: cornflowerblue;
+}
+
+
+/* id selectors  */
+
+#wholoved {
+    color: brown;
+    font-size: 50px;
+}
